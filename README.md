@@ -1,5 +1,9 @@
 # PetParadise-GroupNo-7
 
+# Table of contents
+* [1. Project Architecture](#1-project-architecture)
+* [2. Database Implementation](#2-database-implementation)
+
 # 1. Project Architecture
 ![architecture-1](https://user-images.githubusercontent.com/94819907/160847800-042e96af-12fe-4988-9c12-bb3224f9fdf3.png)
 ![architecture-2](https://user-images.githubusercontent.com/94819907/160847813-68665501-a1b7-4817-ae68-e9ab332bb734.png)
