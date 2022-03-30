@@ -1,4 +1,5 @@
 # PetParadise-GroupNo-7
 
-* ER-Diagram :
-![Screenshot (39)](https://user-images.githubusercontent.com/94819907/160813505-97b842b7-3cf3-43f3-b401-412fcedc1b12.png)
+# 1. Database Implementation
+*ER-Diagram :
+![ER-Diagram](https://user-images.githubusercontent.com/94819907/160838679-56deef16-3c13-4d46-8c1a-3a9c544dbf52.png)
