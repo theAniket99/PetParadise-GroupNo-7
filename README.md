@@ -12,5 +12,5 @@
 # 2. Database Implementation
 MySQL, the most popular Open Source SQL database management system, is developed, distributed, and supported by Oracle Corporation.
 * ER-Diagram :
-![ER-dia](https://user-images.githubusercontent.com/94819907/161189616-678a64c7-e882-445f-8a3d-6bf51b95009d.png)
+![New-ER-Dia](https://user-images.githubusercontent.com/94819907/161379823-60d03127-41e4-441f-97f4-7d2ceb53d9f4.png)
 
